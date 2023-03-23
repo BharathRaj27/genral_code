@@ -1,0 +1,13 @@
+streamlit 
+pandas 
+numpy 
+matplotlib.pyplot as plt
+seaborn 
+LabelEncoder
+OneHotEncoder
+train_test_split
+LogisticRegression
+confusion_matrix 
+accuracy_score
+stats
+Image
